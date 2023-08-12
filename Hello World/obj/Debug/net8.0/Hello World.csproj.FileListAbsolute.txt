@@ -1,0 +1,28 @@
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/bin/Debug/net8.0/Hello World
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/bin/Debug/net8.0/Hello World.deps.json
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/bin/Debug/net8.0/Hello World.runtimeconfig.json
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/bin/Debug/net8.0/Hello World.dll
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/bin/Debug/net8.0/Hello World.pdb
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.AssemblyInfoInputs.cache
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.AssemblyInfo.cs
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.csproj.CoreCompileInputs.cache
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.dll
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/refint/Hello World.dll
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.pdb
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/Hello World.genruntimeconfig.cache
+/Users/erikbjur/Desktop/Python Projects/C# Example/Hello World/obj/Debug/net8.0/ref/Hello World.dll
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/bin/Debug/net8.0/Hello World
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/bin/Debug/net8.0/Hello World.deps.json
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/bin/Debug/net8.0/Hello World.runtimeconfig.json
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/bin/Debug/net8.0/Hello World.dll
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/bin/Debug/net8.0/Hello World.pdb
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.AssemblyInfoInputs.cache
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.AssemblyInfo.cs
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.csproj.CoreCompileInputs.cache
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.dll
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/refint/Hello World.dll
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.pdb
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/Hello World.genruntimeconfig.cache
+/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/obj/Debug/net8.0/ref/Hello World.dll
