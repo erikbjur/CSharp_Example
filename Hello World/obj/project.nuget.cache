@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2nKtHU7TicnKIRFUSDpG6EYzgZc/W4jd9uuD5EX7wuAk4Ytv3e9DBpjxB/EIwUe//wB23sW9TIiV9886SJCDnw==",
+  "dgSpecHash": "ZBmrLybEwV/LOwzZ+0qG/a3GKGEF4dx1t7zJN+g5U5GgBTbi+CFMgHrnVbotgUiRouUZy1BRAc4fcoEQ9F55uw==",
   "success": true,
-  "projectFilePath": "/Users/erikbjur/Desktop/Sample_Projects/C#_Example/Hello World/Hello World.csproj",
+  "projectFilePath": "c:\\Users\\erikb\\Documents\\Dev\\Lego_Class\\CSharp_Example\\Hello World\\Hello World.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
